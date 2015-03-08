@@ -14,7 +14,7 @@ CapacitiveSensorDue
 Keypad
 PCD8544
 TFT
-USB_Host_Shield
+USB`_Host`_Shield
 Ultrasonic
 LiquidCrystal_I2C
 ==================== =========== =============================================================================
