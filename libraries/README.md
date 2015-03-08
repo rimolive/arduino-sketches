@@ -6,6 +6,7 @@ Os sketches aqui apresentados podem utilizar bibliotecas adicionais. Para isso, 
 A tabela abaixo mostra as bibliotecas adicionadas nesse projeto.
 
 |Diretório|Biblioteca|Descrição|
+|---|---|---|
 |AndroidAccessory|||
 |CapacitiveSensor|||
 CapacitiveSensorDue|||
