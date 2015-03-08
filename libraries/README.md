@@ -7,12 +7,12 @@ A tabela abaixo mostra as bibliotecas adicionadas nesse projeto.
 
 |Diretório|Biblioteca|Descrição|
 |---|---|---|
-|AndroidAccessory|||
+|AndroidAccessory|Android ADK||
 |CapacitiveSensor|||
-CapacitiveSensorDue|||
-|Keypad|||
-|PCD8544|||
+|CapacitiveSensorDue|||
+|Keypad|Teclado||
+|PCD8544|Nokia LCD Display||
 |TFT|||
 |USB_Host_Shield|||
 |Ultrasonic|||
-|LiquidCrystal_I2C|||
+|LiquidCrystal_I2C|LCD I2C||
