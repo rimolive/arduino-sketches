@@ -11,6 +11,9 @@ A tabela abaixo mostra as bibliotecas adicionadas nesse projeto.
 |CapacitiveSensor|||
 |CapacitiveSensorDue|||
 |Keypad|Teclado||
+|LiquidCrystal_I2C1602V1|Módulo I2C para Displays|
+|Menu|Menu versão 1.0||
+|MenuBackend|Menu versão 1.1||
 |PCD8544|Nokia LCD Display||
 |TFT|||
 |USB_Host_Shield|||
